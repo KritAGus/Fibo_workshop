@@ -1,5 +1,5 @@
-geometry_msgs/Point target
+geometry_msgs/Point target  #Request
 ---
-float64 distance
+float64 distance  #result
 ---
-float64 elasped_time
+float64 elasped_time   #feedback
